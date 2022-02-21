@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c-ares", "c-ares.vcxproj", "{7F384EFE-6867-3695-8AED-7C6086D644FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c-ares-dll", "c-ares-dll.vcxproj", "{21D27B54-E36F-4676-AE72-88DE86645520}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,14 @@ Global
 		{7F384EFE-6867-3695-8AED-7C6086D644FC}.Release|Win32.Build.0 = Release|Win32
 		{7F384EFE-6867-3695-8AED-7C6086D644FC}.Release|x64.ActiveCfg = Release|x64
 		{7F384EFE-6867-3695-8AED-7C6086D644FC}.Release|x64.Build.0 = Release|x64
+		{21D27B54-E36F-4676-AE72-88DE86645520}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21D27B54-E36F-4676-AE72-88DE86645520}.Debug|Win32.Build.0 = Debug|Win32
+		{21D27B54-E36F-4676-AE72-88DE86645520}.Debug|x64.ActiveCfg = Debug|x64
+		{21D27B54-E36F-4676-AE72-88DE86645520}.Debug|x64.Build.0 = Debug|x64
+		{21D27B54-E36F-4676-AE72-88DE86645520}.Release|Win32.ActiveCfg = Release|Win32
+		{21D27B54-E36F-4676-AE72-88DE86645520}.Release|Win32.Build.0 = Release|Win32
+		{21D27B54-E36F-4676-AE72-88DE86645520}.Release|x64.ActiveCfg = Release|x64
+		{21D27B54-E36F-4676-AE72-88DE86645520}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
