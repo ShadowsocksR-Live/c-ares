@@ -1,3 +1,5 @@
+.vscode/
+cmake-build-*/
 .deps
 .libs
 *.lib
